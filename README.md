@@ -76,10 +76,10 @@ We also welcome contributions to this repository, including new 3D models or oth
 If you use this project in your research, please cite it.
 
 ```
-@article{paper,
-  title={paper},
-  author={author},
-  journal={journal},
-  year={year}
+@article{funk2023evetac,
+      title={Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation}, 
+      author={Niklas Funk and Erik Helmut and Georgia Chalvatzaki and Roberto Calandra and Jan Peters},
+      journal={arXiv preprint arXiv:2312.01236},
+      year={2023}
 }
 ```
