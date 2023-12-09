@@ -26,6 +26,9 @@ for Robotic Manipulation</h3>
       <a href="#sensor-overview">Sensor Overview</a>
     </li>
     <li>
+      <a href="#alternative-evetac-versions">Alternative Evetac Versions</a>
+    </li>
+    <li>
       <a href="#customization-and-3d-printing">Customization and 3D Printing</a>
     </li>
     <li>
@@ -50,7 +53,12 @@ The sensor mainly consists of off-the-shelf components, as well as a 3D printed 
 | LED stripe    |   LED COB band 4000K,  height 5mm, witdth 2.2mm, 12V  | <a href="https://www.amazon.de/gp/product/B09WHY4Q33/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1">Amazon</a>     |
 | Gel           |                GelSight Mini Marker Gel               | <a href="https://www.gelsight.com/product/tracking-marker-replacement-gel/">GelSight</a>   |
 
-All the adaptors for the Franka Emika Panda robot arm, Robotis RH-P12-RN gripper, and OptiTrack accessories that were used in the experiments can be found in the respective folders: <a href="/adapters">adapters</a> and <a href="/optitrack">optitrack</a>. 
+All the adaptors for the Franka Emika Panda robot arm, Robotis RH-P12-RN gripper, and OptiTrack accessories that were used in the experiments can be found in the respective folders: <a href="/adapters">adapters</a> and <a href="/optitrack">optitrack</a>.
+
+<!-- Alternative Evetac Versions -->
+## Alternative Evetac Versions
+To improve sensor reproducibility, we aim to provide additional Evetac Designs <a href="/evetac_housing/alternative_designs/">here</a>.
+* December 2023: Adding support for the newly released DVXplorer Micro event-based camera from Inivation. 
 
 <!-- Customization and 3D Printing -->
 ## Customization and 3D Printing
