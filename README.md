@@ -13,8 +13,8 @@ for Robotic Manipulation</h3>
 
   <p align="center">
     We introduce a new event-based optical tactile sensor called Evetac. Its modular design attempts to maximize the re-use of existing components to facilitate reproducibility. You can simply 3D print the housing and assemble the sensor yourself. This repo contains the mechanical design files of the sensor and additional adapters. They are designed to be 3D printed so that you are able to produce them yourself and/or modify them to fit your needs. <br />
-    <a href="https://sites.google.com/view/evetac"><strong>For more information about Evetac, visit the Project Page. »</strong></a>
-    <a href="[https://sites.google.com/view/evetac](https://youtu.be/24e9n3mCopw)"><strong>Click here for a Video Tutorial on how to assemble Evetac. »</strong></a>
+    <a href="https://sites.google.com/view/evetac"><strong>For more information about Evetac, visit the Project Page. »</strong></a> \
+    <a href="https://youtu.be/24e9n3mCopw"><strong>Click here for a Video Tutorial on how to assemble Evetac. »</strong></a>
   </p>
 </div>
 
