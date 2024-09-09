@@ -85,10 +85,14 @@ We also welcome contributions to this repository, including new 3D models or oth
 If you use this project in your research, please cite it.
 
 ```
-@article{funk2023evetac,
-      title={Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation}, 
-      author={Niklas Funk and Erik Helmut and Georgia Chalvatzaki and Roberto Calandra and Jan Peters},
-      journal={arXiv preprint arXiv:2312.01236},
-      year={2023}
-}
+@ARTICLE{EvetacFunk,
+  author={Funk, Niklas and Helmut, Erik and Chalvatzaki, Georgia and Calandra, Roberto and Peters, Jan},
+  journal={IEEE Transactions on Robotics}, 
+  title={Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-20},
+  keywords={Robots;Tactile sensors;Optical sensors;Cameras;Robot vision systems;Optical feedback;Spatial resolution;Force and Tactile Sensing;Perception for Grasping and Manipulation;Deep Learning in Robotics and Automation;Event-based Sensing},
+  doi={10.1109/TRO.2024.3428430}}
 ```
